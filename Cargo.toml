@@ -1,0 +1,10 @@
+[package]
+name = "letsshat"
+version = "0.1.0"
+authors = ["Patrick Allen <prallen90@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "*"
+log = "*"
+env_logger = "*"
